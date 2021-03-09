@@ -82,10 +82,10 @@ API Calls           |  Convert to Dataframe
 
 ---
 
-Sample Plots by Latitude          |   
+Sample Plots by Latitude          |  Last image is Clouds vs Humidity  
 :-------------------------:|:-------------------------:
 ![Lat vs Temp](images/2_LatVsTemp.PNG)  |  ![Lat vs Feels Like](images/3_LatVsFeels.PNG)
 ![Lat vs Humidity](images/4_LatVsHumidity.PNG)  |  ![Lat vs Clouds](images/5_LatVsCloud.PNG)
-![Lat vs Wind](images/6_LatVsWind.PNG)  |   
+![Lat vs Wind](images/6_LatVsWind.PNG)  |   ![Cloud vs Humidity](images/7_CloudVSHumidity.PNG)
 
 ---

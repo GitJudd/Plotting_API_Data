@@ -78,14 +78,14 @@ As final considerations:
 
 API Calls           |  Convert to Dataframe
 :-------------------------:|:-------------------------:
-![API Call](images/0_APICalls.png)  |  ![Convert to DF](images/1_ConvertToDF.png)
+![API Call](images/0_APICalls.PNG)  |  ![Convert to DF](images/1_ConvertToDF.PNG)
 
 ---
 
 Sample Plots by Latitude          |   
 :-------------------------:|:-------------------------:
-![Lat vs Temp](images/2_LatVsTemp.png)  |  ![Lat vs Feels Like](images/3_LatVsFeels.png)
-![Lat vs Humidity](images/4_LatVsHumidity.png)  |  ![Lat vs Clouds](images/5_LatVsCloud.png)
-![Lat vs Wind](images/6_LatVsWind.png)  |   
+![Lat vs Temp](images/2_LatVsTemp.PNG)  |  ![Lat vs Feels Like](images/3_LatVsFeels.PNG)
+![Lat vs Humidity](images/4_LatVsHumidity.PNG)  |  ![Lat vs Clouds](images/5_LatVsCloud.PNG)
+![Lat vs Wind](images/6_LatVsWind.PNG)  |   
 
 ---

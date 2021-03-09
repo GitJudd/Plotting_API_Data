@@ -98,3 +98,6 @@ Linear Regression (Northern Hemisphere)         |  Linear Regression (Southern H
 ![Lin Reg](images/25_WindVsLat_linreg.PNG)  |  ![Lin Reg](images/25s_WindVsLat_linreg.PNG)
 
 ---
+
+[Final Export/Hotel Destinations](https://gitjudd.github.io/python-api-challenge/export.html)
+![API Call](images/export.PNG) 

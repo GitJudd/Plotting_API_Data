@@ -89,3 +89,12 @@ Sample Plots by Latitude          |  Last image is Clouds vs Humidity
 ![Lat vs Wind](images/6_LatVsWind.PNG)  |   ![Cloud vs Humidity](images/7_CloudVSHumidity.PNG)
 
 ---
+
+Linear Regression (Northern Hemisphere)         |  Linear Regression (Southern Hemisphere)   
+:-------------------------:|:-------------------------:
+![Lin Reg](images/22_TempVsLat_linreg.PNG)  |  ![Lin Reg](images/22s_TempVsLat_linreg.PNG)
+![Lin Reg](images/23_HumVsLat_linreg.PNG)  |  ![Lin Reg](images/23s_HumVsLat_linreg.PNG)
+![Lin Reg](images/24_CloudVsLat_linreg.PNG)  |  ![Lin Reg](images/24s_CloudVsLat_linreg.PNG)
+![Lin Reg](images/25_WindVsLat_linreg.PNG)  |  ![Lin Reg](images/25s_WindVsLat_linreg.PNG)
+
+---

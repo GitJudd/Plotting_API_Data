@@ -11,7 +11,7 @@ Also, if you having trouble displaying the maps try running `jupyter nbextension
 
 ## Part I - Prove it!
 
-* Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using [simple Python library](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api)to create a representative model of weather across world cities.
+* Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using [simple Python library](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api) to create a representative model of weather across world cities.
 
 * Create a series of scatter plots to showcase the following relationships:
 

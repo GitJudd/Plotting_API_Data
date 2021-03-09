@@ -13,21 +13,21 @@ Note: If you would like to run the included Jupyter Notebook files, you will nee
 
 * Create a series of scatter plots to showcase the following relationships:
 
-** Temperature (F) vs. Latitude
-** Humidity (%) vs. Latitude
-** Cloudiness (%) vs. Latitude
-** Wind Speed (mph) vs. Latitude
+- [x] Temperature (F) vs. Latitude
+- [x] Humidity (%) vs. Latitude
+- [x] Cloudiness (%) vs. Latitude
+- [x] Wind Speed (mph) vs. Latitude
 
 *Run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-** Northern Hemisphere - Temperature (F) vs. Latitude
-** Southern Hemisphere - Temperature (F) vs. Latitude
-** Northern Hemisphere - Humidity (%) vs. Latitude
-** Southern Hemisphere - Humidity (%) vs. Latitude
-** Northern Hemisphere - Cloudiness (%) vs. Latitude
-** Southern Hemisphere - Cloudiness (%) vs. Latitude
-** Northern Hemisphere - Wind Speed (mph) vs. Latitude
-** Southern Hemisphere - Wind Speed (mph) vs. Latitude
+- [x] Northern Hemisphere - Temperature (F) vs. Latitude
+- [x] Southern Hemisphere - Temperature (F) vs. Latitude
+- [x] Northern Hemisphere - Humidity (%) vs. Latitude
+- [x] Southern Hemisphere - Humidity (%) vs. Latitude
+- [x] Northern Hemisphere - Cloudiness (%) vs. Latitude
+- [x] Southern Hemisphere - Cloudiness (%) vs. Latitude
+- [x] Northern Hemisphere - Wind Speed (mph) vs. Latitude
+- [x] Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 * Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
 

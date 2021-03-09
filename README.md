@@ -9,9 +9,9 @@ Note: If you would like to run the included Jupyter Notebook files, you will nee
 
 ## Part I - WeatherPy
 
-*Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using [simple Python library](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api)to create a representative model of weather across world cities.
+* Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using [simple Python library](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api)to create a representative model of weather across world cities.
 
-*Create a series of scatter plots to showcase the following relationships:
+* Create a series of scatter plots to showcase the following relationships:
 
 ** Temperature (F) vs. Latitude
 ** Humidity (%) vs. Latitude
